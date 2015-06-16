@@ -11,7 +11,6 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.sotemall.com/app/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +22,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>潮流前线</string>
+				<string>搜特网</string>
 			</dict>
 		</dict>
 	</array>
